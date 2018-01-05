@@ -1,0 +1,120 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "7D53CCA6-3AB9-40B8-88B7-D7DB219714AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1440,
+    "x": -79,
+    "y": -66
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "50DBD9CD-854F-4E17-83F9-27F87A7870B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A92B95CA-2AC9-4E96-B7BD-DE2D041C9FF4"
+    },
+    {
+      "class": "group",
+      "id": "5BFA6238-14DE-416A-84C8-04BD669623D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0B16B7A-CA77-490A-8140-3C39E6B55C21"
+    },
+    {
+      "class": "group",
+      "id": "CF836003-2685-4701-B975-CBAD24D7B5FE"
+    },
+    {
+      "class": "group",
+      "id": "94585EE5-36B1-4632-BB1F-94C27CAE0EEA"
+    },
+    {
+      "class": "group",
+      "id": "82CAC4F3-1EDB-46FB-9208-36DE659EA5DA"
+    },
+    {
+      "class": "group",
+      "id": "BFB0F84D-3B0E-481E-9F88-A77E12029DAF"
+    },
+    {
+      "class": "group",
+      "id": "30671254-6437-436F-9C56-9EA0188B870F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D03129C1-F60C-4F61-ABB5-BD63D8F3FAD9"
+    },
+    {
+      "class": "text",
+      "id": "6D78D8AF-0F8E-49FD-BAFE-684E9816CC21"
+    },
+    {
+      "class": "group",
+      "id": "0821F342-E0FE-48A5-8230-CDB5CCFEB647"
+    },
+    {
+      "class": "text",
+      "id": "76A11ACB-4BA2-443F-AD38-2EC49F2772DC"
+    },
+    {
+      "class": "group",
+      "id": "600E79A4-4178-4DA1-85A4-518A966A98E3"
+    }
+  ],
+  "name": "Desktop HD",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
